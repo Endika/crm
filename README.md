@@ -1,3 +1,4 @@
+[![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/111/8.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-crm-111)
 [![Build Status](https://travis-ci.org/OCA/crm.svg?branch=master)](https://travis-ci.org/OCA/crm)
 [![Coverage Status](https://img.shields.io/coveralls/OCA/crm.svg)](https://coveralls.io/r/OCA/crm?branch=master)
 
@@ -14,9 +15,14 @@ addon | version | summary
 [crm_claim_type](crm_claim_type/) | 8.0.1.0.0 | Claim types for CRM
 [crm_lead_address_street3](crm_lead_address_street3/) | 8.0.0.1.0 | Street3 in lead addresses
 [crm_lead_code](crm_lead_code/) | 8.0.1.0.0 | Sequential Code for Leads / Opportunities
+[crm_lead_invoice_address](crm_lead_invoice_address/) | 8.0.1.0.0 | Add Invoice address field to leads
 [crm_lead_lost_reason](crm_lead_lost_reason/) | 8.0.1.0.0 | Opportunity Lost Reason
 [crm_lead_sale_link](crm_lead_sale_link/) | 8.0.1.0.0 | CRM Lead Sale Link
+[crm_lead_supplier](crm_lead_supplier/) | 8.0.1.1.0 | Add fields to know if leads are suppliers too
+[crm_lead_vat](crm_lead_vat/) | 8.0.1.1.0 | Add VAT field to leads
+[crm_lead_website](crm_lead_website/) | 8.0.1.0.0 | Add Website field to leads
 [crm_location](crm_location/) | 8.0.1.0.0 | CRM location
+[crm_sector](crm_sector/) | 8.0.1.0.0 | Link leads/opportunities to sectors
 [crm_track_next_action](crm_track_next_action/) | 8.0.1.0.0 | CRM Track Next Action
 [lettermgmt](lettermgmt/) | 8.0.1.2.0 | Track letters, parcels, registered documents
 [mass_mailing_partner](mass_mailing_partner/) | 8.0.1.0.0 | Link partners with mass-mailing
